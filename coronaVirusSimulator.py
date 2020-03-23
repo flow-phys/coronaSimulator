@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+Authors: William Olson and Britton Olson
+Date: 3/23/2020
+Description: Simple simulator to show spreading of a disease via contact using random non-collisional
+             motion of particles.
 """
 
 import numpy as npy
